@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "wo jiu ce shi yi xia"
   spec.description  = "wo jiu ce shi yi xia a"
 
-  spec.homepage     = "https://github.com/guxinming/XMTextFieldBind"
+  spec.homepage     = "https://github.com/guxinming/"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "小明" => "email@address.com" }
   spec.platform     = :ios, "8.0"
