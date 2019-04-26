@@ -25,11 +25,11 @@ Pod::Spec.new do |spec|
   spec.author       = { "小明" => "email@address.com" }
   spec.platform     = :ios, "8.0"
 
-  spec.source       = { :git => "https://github.com/guxinming/XMTextFieldBind.git", :tag => s.version }
+  spec.source       = { :git => "https://github.com/guxinming/XMTextFieldBind.git", :tag => spec.version }
 
   spec.source_files  = "TextFieldBind/KVOPlugin.{h,m}"
   spec.frameworks = "UIKit", "Foundation"
-  s.public_header_files = 'TextFieldBind/KVOPlugin.{h,m}'
-  s.requires_arc = true
+  spec.public_header_files = 'TextFieldBind/KVOPlugin.{h,m}'
+  spec.requires_arc = true
 
 end
