@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.name         = "XMTextFieldBind"
   spec.version      = "0.0.5"
   spec.summary      = "wo jiu ce shi yi xia"
-  spec.description  = "wo jiu ce shi yi xia"
+  spec.description  = "wo jiu ce shi yi xia a"
 
   spec.homepage     = "https://github.com/guxinming/XMTextFieldBind"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -29,7 +29,6 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "TextFieldBind/KVOPlugin.{h,m}"
   spec.frameworks = "UIKit", "Foundation"
-  spec.public_header_files = 'TextFieldBind/KVOPlugin.{h,m}'
   spec.requires_arc = true
 
 end
