@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XMTextFieldBind"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "wo jiu ce shi yi xia"
 
   # This description is used to generate tags and improve search results.
@@ -77,7 +77,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/guxinming/XMTextFieldBind.git", :commit => "5ea568ec56f25d28a660bf3c3a4427fa21c2d25f" }
+  spec.source       = { :git => "https://github.com/guxinming/XMTextFieldBind.git", :tag => s.version" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
