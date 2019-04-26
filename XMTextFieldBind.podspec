@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XMTextFieldBind"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "wo jiu ce shi yi xia"
   spec.description  = "wo jiu ce shi yi xia a"
 
