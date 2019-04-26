@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XMTextFieldBind"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "wo jiu ce shi yi xia"
 
   # This description is used to generate tags and improve search results.
