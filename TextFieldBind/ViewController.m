@@ -35,6 +35,8 @@
     [[KVOPlugin shareInstance] eventForControl:self.tf1 controlEvent:UIControlEventEditingChanged eventBlock:^(UIControl *control) {
         
     }];
+    
+    NSLog(@"%@");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
